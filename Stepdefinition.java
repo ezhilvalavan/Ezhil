@@ -32,6 +32,9 @@ public class Stepdefinition extends Baseclass {
 		typetext(pass,string2);
 		
 	}
+	hotel booking branches 
+		hotel bookinng refrence number using 
+		card number
 
 	@When("user clicks on the login Button")
 	public void user_clicks_on_the_login_Button() {
